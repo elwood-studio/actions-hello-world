@@ -1,0 +1,10 @@
+{
+  "name": "@elwood-studio/actions-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World Action!",
+  "main": "index.js",
+  "repository": "git@github.com:elwood-studio/actions-hello-world.git",
+  "author": "Travis <travis@elwood.studio>",
+  "license": "MIT",
+  "private": true
+}
